@@ -1,2 +1,2 @@
 # MOOC-MBA
-A collection of free courses to prepare for MBA
+A collection of free self-taught courses to prepare for an MBA.

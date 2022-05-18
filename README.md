@@ -12,6 +12,7 @@ The classes will focus more on Accounting, Finance, and Supply Chain Management.
 - [ ] [Derivatives Markets Advanced Modeling and Strategies](https://www.edx.org/course/derivatives-markets-advanced-modeling-and-strategies) from Massachusetts Institute of Technology
 - [ ] [Finance & Quantitative Modeling for Analysts](https://www.coursera.org/specializations/finance-quantitative-modeling-analysts) from The University of Pennsylvania
 - [ ] [Financial Engineering and Risk Management](https://www.coursera.org/specializations/financialengineering) from Columbia University
+- [ ] [Introduction to Corporate Finance](https://www.coursera.org/learn/wharton-finance) from Columbia University
 
 ## Supply Chain
 

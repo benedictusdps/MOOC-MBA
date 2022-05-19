@@ -3,7 +3,7 @@ A collection of free self-taught courses on MBA classes.
 
 # Classes
 
-The classes will focus more on Accounting, Finance, and Supply Chain Management. If ever needed, additional classes such as Marketing and Human Resources will be added in the future as well. The courses listed here are ones free to audit. For those interested in adding their credentials, the courses here also provide certificates of completion by their respective schools for an additional fee.
+The courses listed here are ones free to audit. For those interested in adding their credentials, the courses here also provide certificates of completion by their respective schools for an additional fee.
 
 ## Foundational Business Concepts
 
@@ -12,14 +12,16 @@ The classes will focus more on Accounting, Finance, and Supply Chain Management.
 - [ ] [Introduction to Operations Management](https://www.coursera.org/learn/wharton-operations?specialization=wharton-business-foundations) from University of Pennsylvania
 - [ ] [Introduction to Corporate Finance](https://www.coursera.org/learn/wharton-finance?) from University of Pennsylvania
 
-## Accounting and Finance
+## General Business and Management Skills
 
-- [ ] [Financial Accounting](https://learning.edx.org/course/course-v1:MITx+15.516x+1T2022/home) from Massachusetts Institute of Technology
-- [ ] [Mathematical Methods for Quantitative Finance](https://www.edx.org/course/mathematical-methods-for-quantitative-finance) from Massachusetts Institute of Technology
-- [ ] [Derivatives Markets Advanced Modeling and Strategies](https://www.edx.org/course/derivatives-markets-advanced-modeling-and-strategies) from Massachusetts Institute of Technology
-- [ ] [Finance & Quantitative Modeling for Analysts](https://www.coursera.org/specializations/finance-quantitative-modeling-analysts) from University of Pennsylvania
-- [ ] [Financial Engineering and Risk Management](https://www.coursera.org/specializations/financialengineering) from Columbia University
+- [ ] [Fundamentals of Quantitative Modeling](https://www.coursera.org/learn/wharton-quantitative-modeling?irclickid=TG4zStQPQxyIT4czvXwrw2%3AEUkD0cxWfYSj3xw0&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=259799&utm_content=b2c) from University of Pennsylvania
+- [ ] [Decision-Making and Scenarios](https://www.coursera.org/learn/wharton-decision-making-scenarios?irclickid=TG4zStQPQxyIT4czvXwrw2%3AEUkD0cxXPYSj3xw0&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=259799&utm_content=b2c) from University of Pennsylvania
+- [ ] [Managing Talent](https://www.coursera.org/learn/managing-talent?irclickid=TG4zStQPQxyIT4czvXwrw2%3AEUkD0cxX%3AYSj3xw0&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=259799&utm_content=b2c) from University of Michigan
+- [ ] [Leading Teams](https://www.coursera.org/learn/leading-teams?irclickid=TG4zStQPQxyIT4czvXwrw2%3AEUkD0cxSWYSj3xw0&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=259799&utm_content=b2c) from University of Michigan
+- [ ] [Scaling Operations: Linking Strategy and Execution](https://www.coursera.org/learn/operations-strategy?irclickid=TG4zStQPQxyIT4czvXwrw2%3AEUkD0cxSHYSj3xw0&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=259799&utm_content=b2c) from Northwestern University
+- [ ] [High Performance Collaboration: Leadership, Teamwork, and Negotiation](https://www.coursera.org/learn/leadership-collaboration?irclickid=TG4zStQPQxyIT4czvXwrw2%3AEUkD0cxSPYSj3xw0&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=259799&utm_content=b2c) from Northwestern University
+- [ ] [Leadership Communication for Maximum Impact: Storytelling](https://www.coursera.org/learn/leadership-storytelling?irclickid=TG4zStQPQxyIT4czvXwrw2%3AEUkD0c20WYSj3xw0&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=259799&utm_content=b2c) from Northwestern University
+- [ ] [Inspiring and Motivating Individuals](https://www.coursera.org/learn/motivate-people-teams?irclickid=TG4zStQPQxyIT4czvXwrw2%3AEUkD0c20nYSj3xw0&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=259799&utm_content=b2c) from University of Michigan
+- [ ] [Making Successful Decisions through the Strategy, Law & Ethics Model](https://www.coursera.org/learn/strategy-law-ethics?irclickid=TG4zStQPQxyIT4czvXwrw2%3AEUkD0c20uYSj3xw0&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=259799&utm_content=b2c) from University of Michigan
+- [ ] [Successful Negotiation: Essential Strategies and Skills](https://www.coursera.org/learn/negotiation-skills?irclickid=TG4zStQPQxyIT4czvXwrw2%3AEUkD0c20PYSj3xw0&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=259799&utm_content=b2c) from University of Michigan
 
-## Supply Chain
-
-- [ ] [Supply Chain Management](https://www.coursera.org/specializations/supply-chain-management?) from Rutgers University

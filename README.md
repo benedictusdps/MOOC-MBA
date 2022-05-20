@@ -1,5 +1,5 @@
 # MOOC for MBA
-A collection of free self-taught courses on MBA classes.
+A collection of free self-taught courses on MBA classes. Taken from [FreeCodeCamp](https://www.freecodecamp.org/news/how-to-make-a-mooc-mba-using-free-courses-from-top-10-business-schools-545113e506d9/).
 
 # Classes
 
@@ -25,3 +25,12 @@ The courses listed here are ones free to audit. For those interested in adding t
 - [ ] [Making Successful Decisions through the Strategy, Law & Ethics Model](https://www.coursera.org/learn/strategy-law-ethics?irclickid=TG4zStQPQxyIT4czvXwrw2%3AEUkD0c20uYSj3xw0&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=259799&utm_content=b2c) from University of Michigan
 - [ ] [Successful Negotiation: Essential Strategies and Skills](https://www.coursera.org/learn/negotiation-skills?irclickid=TG4zStQPQxyIT4czvXwrw2%3AEUkD0c20PYSj3xw0&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=259799&utm_content=b2c) from University of Michigan
 
+## Concentration
+
+It is advised anyone pursuing self-directed education to develop deep knowledge and skills in an area of concentration. This is where you can reap the real value of a self-directed education. Focus on a discrete area, take courses that are rigorous, and put what you learn into practice in real world scenarios.
+
+### Entrepreneurship
+
+### Digital Strategy
+
+### Finance

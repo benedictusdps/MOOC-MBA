@@ -31,6 +31,14 @@ It is advised anyone pursuing self-directed education to develop deep knowledge 
 
 ### Entrepreneurship
 
+- [ ] [Entrepreneurship 1: Developing the Opportunity](https://www.coursera.org/learn/wharton-entrepreneurship-opportunity?irclickid=w7fRP5VLdxyIWgm1QPRtbxHrUkDxUP34owiGTQ0&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=259799&utm_content=b2c) from University of Pennsylvania
+- [ ] [Entrepreneurship 2: Launching your Start-Up](https://www.coursera.org/learn/wharton-launching-startup?irclickid=w7fRP5VLdxyIWgm1QPRtbxHrUkDxUPywowiGTQ0&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=259799&utm_content=b2c) from University of Pennsylvania
+- [ ] [Entrepreneurship 3: Growth Strategies](https://www.coursera.org/learn/growth-strategy?irclickid=w7fRP5VLdxyIWgm1QPRtbxHrUkDxUPyQowiGTQ0&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=259799&utm_content=b2c) from University of Pennsylvania
+- [ ] [Entrepreneurship 4: Financing and Profitability](https://www.coursera.org/learn/wharton-entrepreneurship-financing-profitabilty?irclickid=w7fRP5VLdxyIWgm1QPRtbxHrUkDxUPygowiGTQ0&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=259799&utm_content=b2c) from University of Pennsylvania
+- [ ] [Entrepreneurship in Emerging Economies](https://www.edx.org/course/entrepreneurship-in-emerging-economies?source=aw&awc=6798_1653350775_776840c5a3f14516ab1a9321e6d7cab7&utm_source=aw&utm_medium=affiliate_partner&utm_content=text-link&utm_term=301045_https%3A%2F%2Fwww.class-central.com%2F) from Harvard University
+- [ ] [Becoming an Entrepreneur](https://www.edx.org/course/becoming-an-entrepreneur?source=aw&awc=6798_1653350777_eebca3ce8a2e16bdb3644a2211d5e596&utm_source=aw&utm_medium=affiliate_partner&utm_content=text-link&utm_term=301045_https%3A%2F%2Fwww.class-central.com%2F) from Massachusetts Institute of Technology
+- [ ] [CS50's Computer Science for Business Professionals](https://www.edx.org/course/cs50s-computer-science-for-business-professionals?source=aw&awc=6798_1653350781_3deb5eaa93fdad4d044074363f15124e&utm_source=aw&utm_medium=affiliate_partner&utm_content=text-link&utm_term=301045_https%3A%2F%2Fwww.class-central.com%2F) from Harvard University
+
 ### Digital Strategy
 
 ### Finance

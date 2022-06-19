@@ -41,6 +41,22 @@ It is advised anyone pursuing self-directed education to develop deep knowledge 
 
 ### Digital Strategy
 
+- [ ] [What is Social?](https://www.classcentral.com/course/what-is-social-4205?utm_source=fcc_medium&utm_medium=web&utm_campaign=mooc_mba_top_10_bschools) from Northwestern University
+- [ ] [The Importance of Listening](https://www.classcentral.com/course/importance-of-listening-4213?utm_source=fcc_medium&utm_medium=web&utm_campaign=mooc_mba_top_10_bschools) from Northwestern University
+- [ ] [Engagement & Nurture Marketing Strategies](https://www.classcentral.com/course/nurture-market-strategies-4331?utm_source=fcc_medium&utm_medium=web&utm_campaign=mooc_mba_top_10_bschools) from Northwestern University
+- [ ] [Content, Advertising & Social IMC](https://www.classcentral.com/course/social-imc-4263?utm_source=fcc_medium&utm_medium=web&utm_campaign=mooc_mba_top_10_bschools) from Northwestern University
+- [ ] [The Business of Social](https://www.classcentral.com/course/business-of-social-4262?utm_source=fcc_medium&utm_medium=web&utm_campaign=mooc_mba_top_10_bschools) from Northwestern University
+- [ ] [Marketing Analytics: Price and Promotion Analytics](https://www.classcentral.com/course/edx-marketing-analytics-price-and-promotion-analytics-6355?utm_source=fcc_medium&utm_medium=web&utm_campaign=mooc_mba_top_10_bschools) from University of California, Berkeley
+- [ ] [Marketing Analytics: Competitive Analysis and Market Segmentation](https://www.classcentral.com/course/edx-marketing-analytics-competitive-analysis-and-market-segmentation-6299?utm_source=fcc_medium&utm_medium=web&utm_campaign=mooc_mba_top_10_bschools) from University of California, Berkeley
+- [ ] [Marketing Analytics: Price and Promotion Analytics](https://www.classcentral.com/course/edx-marketing-analytics-price-and-promotion-analytics-6355?utm_source=fcc_medium&utm_medium=web&utm_campaign=mooc_mba_top_10_bschools) from University of California, Berkeley
+- [ ] [Marketing Analytics: Products, Distribution and Sales](https://www.classcentral.com/course/edx-marketing-analytics-products-distribution-and-sales-6354?utm_source=fcc_medium&utm_medium=web&utm_campaign=mooc_mba_top_10_bschools) from University of California, Berkeley
+- [ ] [Marketing Analytics: Marketing Measurement Strategy](https://www.classcentral.com/course/edx-marketing-analytics-marketing-measurement-strategy-6356?utm_source=fcc_medium&utm_medium=web&utm_campaign=mooc_mba_top_10_bschools) from University of California, Berkeley
+- [ ] [Content Strategy for Professionals: Engaging Audiences](https://www.classcentral.com/course/engagement-strategy-727?utm_source=fcc_medium&utm_medium=web&utm_campaign=mooc_mba_top_10_bschools) from Northwestern University
+- [ ] [Content Strategy for Professionals: Managing Content](https://www.classcentral.com/course/content-management-strategy-5762?utm_source=fcc_medium&utm_medium=web&utm_campaign=mooc_mba_top_10_bschools) from Northwestern University
+- [ ] [Content Strategy for Professionals: Expanding Your Content’s Reach](https://www.classcentral.com/course/growingaudiences-2755?utm_source=fcc_medium&utm_medium=web&utm_campaign=mooc_mba_top_10_bschools) from Northwestern University
+- [ ] [Content Strategy for Professionals: Ensuring Your Content's Impact](https://www.classcentral.com/course/effective-content-strategy-5761?utm_source=fcc_medium&utm_medium=web&utm_campaign=mooc_mba_top_10_bschools) from Northwestern University
+- [ ] [Omnichannel Strategy and Management](https://www.classcentral.com/course/edx-omnichannel-strategy-and-management-8519?utm_source=fcc_medium&utm_medium=web&utm_campaign=mooc_mba_top_10_bschools) from Dartmouth College
+
 ### Finance
 
 - [ ] [Financial Engineering and Risk Management](https://www.coursera.org/specializations/financialengineering?irclickid=TG4zStQPQxyIT4czvXwrw2:EUkD04r2vYSj3xw0&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=259799&utm_content=b2c) from Columbia University
